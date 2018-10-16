@@ -14,6 +14,10 @@ Blog
 The companion blog at <http://aka.ms/o365update-blog> hosts this document and
 articles related to this video series.
 
+Full Video
+==========
+[![Office 365 Update: October 2018](https://i.ytimg.com/vi/Al_EkES_4zE/hqdefault.jpg)](https://youtu.be/Al_EkES_4zE "Office 365 update Series")
+
 Transcript
 ==========
 
