@@ -31,7 +31,7 @@ goal of helping you get the most out of the service.
 
 Microsoft Ignite Book of News
 -----------------------------
-[![Office 365 Update: October 2018](https://i.ytimg.com/vi/Al_EkES_4zE/hqdefault.jpg)](https://youtu.be/Al_EkES_4zE?t=18 "Office 365 update Series")
+[![Office 365 Update: October 2018](https://i.ytimg.com/vi/Al_EkES_4zE/hqdefault.jpg)](https://youtu.be/Al_EkES_4zE?start=18&end=5 "Office 365 update Series")
 
 [Microsoft Ignite Website](https://www.microsoft.com/ignite)
 
