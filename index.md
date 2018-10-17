@@ -14,16 +14,12 @@ Blog
 The companion blog at <http://aka.ms/o365update-blog> hosts this document and
 articles related to this video series.
 
-Full Video
-==========
-[![Office 365 Update: October 2018](https://i.ytimg.com/vi/Al_EkES_4zE/hqdefault.jpg)](https://youtu.be/Al_EkES_4zE "Office 365 update Series")
-
 Transcript
 ==========
 
 Introductory Comments
 ---------------------
-[![Office 365 Update: October 2018](https://i.ytimg.com/vi/Al_EkES_4zE/hqdefault.jpg)](https://youtu.be/Al_EkES_4zE "Office 365 update Series")
+[![Office 365 Update: October 2018](https://github.com/Jimnar/o365update/blob/master/Intro.jpg)](https://youtu.be/Al_EkES_4zE "Office 365 update Series")
 
 Welcome to the Office 365 update for October of 2018. In the next few minutes
 I\`ll be giving you a quick rundown of the latest Office 365 updates, with the
