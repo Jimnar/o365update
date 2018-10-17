@@ -73,7 +73,7 @@ storage each, for a total of 6 TB.
 
 OneDrive: OneDrive Files On-Demand for Mac
 ------------------------------------------
-[![Office 365 Update: October 2018](https://github.com/Jimnar/o365update/blob/master/FOND.png)](https://youtu.be/Al_EkES_4zE?t=154 "Office 365 update Series")
+[![Office 365 Update: October 2018](https://github.com/Jimnar/o365update/blob/master/FOND.png)](https://youtu.be/Al_EkES_4zE?t=154 "Office 365 Update Series")
 
 [OneDrive Announcements at Ignite
 2018](https://techcommunity.microsoft.com/t5/Microsoft-OneDrive-Blog/OneDrive-Announcements-at-Ignite-2018/ba-p/255201)
@@ -102,7 +102,7 @@ if you’d like to try it out.
 
 OneDrive: Super Zoom on iOS
 ---------------------------
-[![Office 365 Update: October 2018](https://github.com/Jimnar/o365update/blob/master/Super%20Zoom.png)](https://youtu.be/Al_EkES_4zE?t=244 "Office 365 update Series")
+[![Office 365 Update: October 2018](https://github.com/Jimnar/o365update/blob/master/Super%20Zoom.png)](https://youtu.be/Al_EkES_4zE?t=244 "Office 365 Update Series")
 
 [OneDrive Message Center Updates August 16th-August
 31st](https://techcommunity.microsoft.com/t5/Microsoft-OneDrive-Blog/OneDrive-Message-Center-Updates-August-16th-August-31st/ba-p/241920)
@@ -119,7 +119,7 @@ OneDrive for commercial accounts later this year.
 
 Word & PowerPoint: Use \@mention in comments to tag someone for feedback
 ------------------------------------------------------------------------
-[![Office 365 Update: October 2018](https://github.com/Jimnar/o365update/blob/master/Mentions.png)](https://youtu.be/Al_EkES_4zE?t=282 "Office 365 update Series")
+[![Office 365 Update: October 2018](https://github.com/Jimnar/o365update/blob/master/Mentions.png)](https://youtu.be/Al_EkES_4zE?t=282 "Office 365 Update Series")
 
 [Use \@mention in comments to tag someone for
 feedback](https://support.office.com/en-us/article/use-mention-in-comments-to-tag-someone-for-feedback-644bf689-31a0-4977-a4fb-afe01820c1fd)
@@ -143,7 +143,7 @@ of the collaboration process helping you get more work done, faster.
 
 Outlook: A new user experience designed for Simplicity
 ------------------------------------------------------
-[![Office 365 Update: October 2018](https://github.com/Jimnar/o365update/blob/master/Outlook.png)](https://youtu.be/Al_EkES_4zE?t=392 "Office 365 update Series")
+[![Office 365 Update: October 2018](https://github.com/Jimnar/o365update/blob/master/Outlook.png)](https://youtu.be/Al_EkES_4zE?t=392 "Office 365 Update Series")
 
 [Designed for Simplicity: User experience updates to Outlook for
 Windows](https://techcommunity.microsoft.com/t5/Outlook-Blog/Designed-for-Simplicity-User-experience-updates-to-Outlook-for/ba-p/241590)
@@ -169,7 +169,7 @@ detail about how Coming Soon will work.
 
 Power BI Built-in report theme options
 --------------------------------------
-[![Office 365 Update: October 2018](https://github.com/Jimnar/o365update/blob/master/Power%20BI.png)](https://youtu.be/Al_EkES_4zE?t=410 "Office 365 update Series")
+[![Office 365 Update: October 2018](https://github.com/Jimnar/o365update/blob/master/Power%20BI.png)](https://youtu.be/Al_EkES_4zE?t=410 "Office 365 Update Series")
 
 [Power BI Desktop September 2018 Feature
 Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-september-2018-feature-summary/#themes)
@@ -197,7 +197,7 @@ know in the transcript and resources guide.
 
 SharePoint: New file template management for document library content types
 ---------------------------------------------------------------------------
-[![Office 365 Update: October 2018](https://github.com/Jimnar/o365update/blob/master/SharePoint.png)](https://youtu.be/Al_EkES_4zE?t=499 "Office 365 update Series")
+[![Office 365 Update: October 2018](https://github.com/Jimnar/o365update/blob/master/SharePoint.png)](https://youtu.be/Al_EkES_4zE?t=499 "Office 365 Update Series")
 
 [Announcing new file template management for document library content
 types](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Announcing-new-file-template-management-for-document-library/ba-p/238374)
@@ -225,13 +225,13 @@ libraries in a single transaction.
 
 Closing Comments
 ----------------
-[![Office 365 Update: October 2018](https://github.com/Jimnar/o365update/blob/master/Outtro.jpg)](https://youtu.be/Al_EkES_4zE?t=588 "Office 365 update Series")
+[![Office 365 Update: October 2018](https://github.com/Jimnar/o365update/blob/master/Outtro.jpg)](https://youtu.be/Al_EkES_4zE?t=588 "Office 365 Update Series")
 
 That’s it for this month. Remember, you can download the transcript and
 resources document that accompanies this video at
 <https://aka.ms/o365update-blog>.
 
-![Office 365 Guy Blog](https://github.com/Jimnar/o365update/blob/master/Blog.png)
+[![Office 365 Guy Blog](https://github.com/Jimnar/o365update/blob/master/Blog.png)] (https://aka.ms./o365update-blog "Office 365 Guy Blog")
 
 I’m Jim Naroski, thanks for watching, and I’ll see you again soon!
 
