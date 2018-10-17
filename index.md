@@ -143,7 +143,7 @@ of the collaboration process helping you get more work done, faster.
 
 Outlook: A new user experience designed for Simplicity
 ------------------------------------------------------
-[![Office 365 Update: October 2018](https://i.ytimg.com/vi/Al_EkES_4zE/hqdefault.jpg)](https://youtu.be/Al_EkES_4zE?t=392 "Office 365 update Series")
+[![Office 365 Update: October 2018](https://github.com/Jimnar/o365update/blob/master/Outlook.png)](https://youtu.be/Al_EkES_4zE?t=392 "Office 365 update Series")
 
 [Designed for Simplicity: User experience updates to Outlook for
 Windows](https://techcommunity.microsoft.com/t5/Outlook-Blog/Designed-for-Simplicity-User-experience-updates-to-Outlook-for/ba-p/241590)
@@ -232,3 +232,5 @@ resources document that accompanies this video at
 <https://aka.ms/o365update-blog>.
 
 I’m Jim Naroski, thanks for watching, and I’ll see you again soon!
+
+[![Office 365 Update: October 2018](https://github.com/Jimnar/o365update/blob/master/Outtro.jpg)]
