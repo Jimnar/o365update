@@ -231,7 +231,7 @@ That’s it for this month. Remember, you can download the transcript and
 resources document that accompanies this video at
 <https://aka.ms/o365update-blog>.
 
-[![Office 365 Guy Blog](https://github.com/Jimnar/o365update/blob/master/Blog.png)] (https://aka.ms./o365update-blog "Office 365 Guy Blog")
+[![Office 365 Guy Blog](https://github.com/Jimnar/o365update/blob/master/Blog.png)](https://aka.ms./o365update-blog "Office 365 Guy Blog")
 
 I’m Jim Naroski, thanks for watching, and I’ll see you again soon!
 
