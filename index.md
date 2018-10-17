@@ -231,6 +231,8 @@ That’s it for this month. Remember, you can download the transcript and
 resources document that accompanies this video at
 <https://aka.ms/o365update-blog>.
 
+![https://github.com/Jimnar/o365update/blob/master/Blog.png]
+
 I’m Jim Naroski, thanks for watching, and I’ll see you again soon!
 
 [![Office 365 Update: October 2018](https://github.com/Jimnar/o365update/blob/master/Outtro.jpg)]
